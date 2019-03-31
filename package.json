@@ -4,7 +4,7 @@
   "description": "iBeacon emulator and scanner nodes for node-red",
   "author": "Valerio Vaccaro <valerio.vaccaro@gmail.com>",
   "dependencies": {
-    "bleacon": "latest"
+    "bleacon": "iHDeveloper/node-bleacon"
   },
   "repository": {
     "type": "git",
